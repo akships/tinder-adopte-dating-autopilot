@@ -1,6 +1,7 @@
 # tinder-adopte-dating-autopilot
 
-<video src="assets/demo-dating-autopilot.mp4" width="80%" height="80%" controls></video>
+https://github.com/akships/tinder-adopte-dating-autopilot/assets/7734791/6a1315ec-2132-4a6d-96f7-8676f7904af4
+
 
 This is a dating bot that will automatically talk to matched girls on TINDER or ADOPTEUNMEC (french website).
 
