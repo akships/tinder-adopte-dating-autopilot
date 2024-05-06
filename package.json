@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "launch-browser": "ts-node launch-browser.ts",
+    "tinder": "ts-node tinderBot.ts",
+    "adopte": "ts-node adopte/adopteBot.ts"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "dotenv": "^16.4.5",
+    "google-spreadsheet": "^4.1.1",
+    "node-geocoder": "^4.3.0",
+    "node-geocoder@4.2.6": "link:types/node-geocoder@4.2.6",
+    "openai": "^4.28.4",
+    "puppeteer": "^22.3.0",
+    "puppeteer-extra": "^3.1.17",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "rxjs": "^7.8.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node-geocoder": "^4.2.6"
+  }
+}
